@@ -123,4 +123,71 @@
   ],
   "usuarios": [],
   "$schema": "./node_modules/json-server/schema.json"
+  "preventas": [
+  {
+    "id": 1,
+    "nombre": "Catan: Nueva Era",
+    "precio": 45000,
+    "precioOriginal": 55000,
+    "img": "/img/catan.avif",
+    "descuento": "-18% PREVENTA",
+    "descripcion": "La nueva expansión de Catan llega con nuevas islas y modos de juego épicos.",
+    "categoria": "mesa",
+    "disponible": false,
+    "fechaLanzamiento": "2025-12-01",
+    "unidades": 50
+  },
+  {
+    "id": 2,
+    "nombre": "Warhammer: Age of Sigmar",
+    "precio": 89000,
+    "precioOriginal": 110000,
+    "img": "/img/warhammercarousel.png",
+    "descuento": "-19% PREVENTA",
+    "descripcion": "Nueva edición del aclamado juego de miniaturas con reglas renovadas y nuevas facciones.",
+    "categoria": "rol",
+    "disponible": false,
+    "fechaLanzamiento": "2025-11-15",
+    "unidades": 30
+  },
+  {
+    "id": 3,
+    "nombre": "UNO: Edición Coleccionista",
+    "precio": 15000,
+    "precioOriginal": 20000,
+    "img": "/img/maso-cartas-uno.jpg",
+    "descuento": "-25% PREVENTA",
+    "descripcion": "Edición especial de UNO con cartas doradas y estuche exclusivo de colección.",
+    "categoria": "carta",
+    "disponible": false,
+    "fechaLanzamiento": "2025-10-31",
+    "unidades": 100
+  },
+  {
+    "id": 4,
+    "nombre": "Zombicide: Black Plague II",
+    "precio": 75000,
+    "precioOriginal": 90000,
+    "img": "/img/cooperativo-zonbiecide.webp",
+    "descuento": "-17% PREVENTA",
+    "descripcion": "La secuela del exitoso cooperativo con nuevos supervivientes y hordas de zombies medievales.",
+    "categoria": "cooperativo",
+    "disponible": false,
+    "fechaLanzamiento": "2026-01-15",
+    "unidades": 40
+  },
+  {
+    "id": 5,
+    "nombre": "Monopoly: Edición Lujo",
+    "precio": 55000,
+    "precioOriginal": 70000,
+    "img": "/img/monopoly.avif",
+    "descuento": "-21% PREVENTA",
+    "descripcion": "Edición de lujo del clásico Monopoly con piezas metálicas y tablero de madera premium.",
+    "categoria": "mesa",
+    "disponible": false,
+    "fechaLanzamiento": "2025-12-25",
+    "unidades": 25
+  }
+]
 }
