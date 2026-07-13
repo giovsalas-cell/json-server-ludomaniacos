@@ -1,0 +1,126 @@
+{
+  "productos": [
+    {
+      "id": "2",
+      "nombre": "UNO",
+      "precio": 5990,
+      "precioOriginal": 0,
+      "img": "/img/maso-cartas-uno.jpg",
+      "descuento": "",
+      "descripcion": "Las cartas Uno son un juego icónico y mundialmente reconocido.",
+      "categoria": "carta"
+    },
+    {
+      "id": "3",
+      "nombre": "VIRUS HALLOWEEN",
+      "precio": 7990,
+      "precioOriginal": 0,
+      "img": "/img/maso-cartas-virus-halloween.jpg",
+      "descuento": "",
+      "descripcion": "Juego competitivo para 2 a 6 jugadores, mayores de 8 años.",
+      "categoria": "carta"
+    },
+    {
+      "id": "4",
+      "nombre": "Catan",
+      "precio": 33991,
+      "precioOriginal": 39990,
+      "img": "/img/catan.avif",
+      "descuento": "-15% DESCUENTO",
+      "descripcion": "El clásico juego de estrategia donde debes colonizar, comerciar y construir en la isla de Catan.",
+      "categoria": "mesa"
+    },
+    {
+      "id": "5",
+      "nombre": "Monopoly",
+      "precio": 39990,
+      "precioOriginal": 0,
+      "img": "/img/monopoly.avif",
+      "descuento": "",
+      "descripcion": "Su objetivo es formar un monopolio comprando, alquilando y vendiendo bienes raíces.",
+      "categoria": "mesa"
+    },
+    {
+      "id": "6",
+      "nombre": "Jumanji",
+      "precio": 39990,
+      "precioOriginal": 0,
+      "img": "/img/jumanjijuego-65f8649a9f635.avif",
+      "descuento": "",
+      "descripcion": "Emocionante reto cooperativo diseñado para 2 a 4 jugadores.",
+      "categoria": "mesa"
+    },
+    {
+      "id": "7",
+      "nombre": "Heroquest First Light",
+      "precio": 33991,
+      "precioOriginal": 0,
+      "img": "/img/Rol-DragonQuest.webp",
+      "descuento": "",
+      "descripcion": "Sigue a 4 héroes a lo largo de misiones en mazmorras llenas de monstruos y tesoros.",
+      "categoria": "rol"
+    },
+    {
+      "id": "8",
+      "nombre": "Mundo de Reterra",
+      "precio": 39990,
+      "precioOriginal": 0,
+      "img": "/img/rol-reterra.webp",
+      "descuento": "",
+      "descripcion": "Juego de reconstrucción de comunidades en un futuro no tan lejano.",
+      "categoria": "rol"
+    },
+    {
+      "id": "9",
+      "nombre": "Warhammer 40,000",
+      "precio": 39990,
+      "precioOriginal": 0,
+      "img": "/img/warhammercarousel.png",
+      "descuento": "",
+      "descripcion": "Juego de guerra ambientado en un futuro distópico.",
+      "categoria": "rol"
+    },
+    {
+      "id": "10",
+      "nombre": "La Isla Prohibida",
+      "precio": 33991,
+      "precioOriginal": 0,
+      "img": "/img/cooperativo-isla-prohibida.jpg",
+      "descuento": "",
+      "descripcion": "Deben recuperar tesoros y escapar antes de que la isla se hunda.",
+      "categoria": "cooperativo"
+    },
+    {
+      "id": "11",
+      "nombre": "KITCHEN RUSH!",
+      "precio": 39990,
+      "precioOriginal": 0,
+      "img": "/img/cooperativo-kitchen-rush.jpg",
+      "descuento": "",
+      "descripcion": "Acabas de heredar un restaurante y debes convertirlo en un negocio exitoso.",
+      "categoria": "cooperativo"
+    },
+    {
+      "id": "12",
+      "nombre": "ZOMBICIDE",
+      "precio": 39990,
+      "precioOriginal": 0,
+      "img": "/img/cooperativo-zonbiecide.webp",
+      "descuento": "",
+      "descripcion": "Juego cooperativo con miniaturas para 1 a 6 jugadores.",
+      "categoria": "cooperativo"
+    },
+    {
+      "nombre": "truco",
+      "precio": 2000,
+      "precioOriginal": 0,
+      "img": "img/maso-cartas-truco.webp",
+      "descuento": "",
+      "descripcion": "juego de cartas truco",
+      "categoria": "carta",
+      "id": "hali2Bz4Pdc"
+    }
+  ],
+  "usuarios": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
